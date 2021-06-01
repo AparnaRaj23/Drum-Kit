@@ -1,5 +1,5 @@
 # 🥁 Drum Kit
-A digital drum kit that generates different sounds of a drum by pressing on the corresponding keyboard keys or simple clicking on the buttons.
+A digital drum kit that generates different sounds of a drum by pressing the corresponding keyboard keys or simple clicking on the buttons.
 
 # Deployment
 Deployed Website: https://aparnaraj23.github.io/Drum-Kit/
